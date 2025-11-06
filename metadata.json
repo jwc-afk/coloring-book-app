@@ -1,0 +1,5 @@
+{
+  "name": "AI Coloring Page Creator",
+  "description": "Turn any photo from your phone into a custom coloring page. Just upload a picture, and our AI will instantly generate a line-art version ready for you to color in with a vibrant palette.",
+  "requestFramePermissions": []
+}
